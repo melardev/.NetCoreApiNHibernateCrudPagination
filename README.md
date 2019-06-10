@@ -35,6 +35,8 @@ for database layer.
 - [Asp.Net Web Api 2](https://github.com/melardev/AspNetWebApiCrud)
 - [Asp.Net Core](https://github.com/melardev/AspNetCoreApiCrud)
 - [Asp.Net Core + MediatR](https://github.com/melardev/AspNetCoreApiCrudMediatR)
+- [Asp.Net Core + NHibernate](https://github.com/melardev/.NetCoreApiNHibernateCrud)
+- [Asp Web Api 2 + NHibernate](https://github.com/melardev/.NetWebApiNHibernateCrud)
 - [Laravel](https://github.com/melardev/LaravelApiCrud)
 - [Ruby On Rails](https://github.com/melardev/RailsApiCrud)
 - [Ruby On Rails + JBuilder](https://github.com/melardev/RailsApiJBuilderCrud)
@@ -53,7 +55,7 @@ for database layer.
 
 #### Microservices
 - [Java Spring Boot Zuul + Rest](https://github.com/melardev/JavaSpringBootZuulRestApiCrud)
-- [Kotlin Spring Boot Zuul + Rest](https://githubcom/melardev/KotlinSpringBootZuulRestApiCrud)
+- [Kotlin Spring Boot Zuul + Rest](https://github.com/melardev/KotlinSpringBootZuulRestApiCrud)
 
 ### Client side implementations
 - [React](https://github.com/melardev/ReactCrudAsync)
@@ -74,6 +76,11 @@ for database layer.
 
 ## Crud + Pagination
 ### Server side implementations
+- [AspNet Core](https://github.com/melardev/AspNetCoreApiPaginatedCrud)
+- [Asp.Net Core + NHibernate](https://github.com/melardev/.NetCoreApiNHibernateCrudPagination)
+- [Asp.Net Core + MediatR](https://github.com/melardev/AspNetCoreApiPaginatedCrudMediatR)
+- [Asp.Net Web Api 2](https://github.com/melardev/WebApiPaginatedAsyncCrud)
+- [Asp.Net Web Api 2 + NHibernate](https://github.com/melardev/.NetWebApiNHibernateCrudPagination)
 - [Spring Boot + Spring Data + Jersey](https://github.com/melardev/SpringBootJerseyApiPaginatedCrud)
 - [Spring Boot + Spring Data](https://github.com/melardev/SpringBootApiJpaPaginatedCrud)
 - [Spring Boot Reactive + Spring Data Reactive](https://github.com/melardev/ApiCrudReactiveMongo)
@@ -91,8 +98,7 @@ for database layer.
 - [Python Django](https://github.com/melardev/DjangoApiCrudPaginated)
 - [Python Django + Rest Framework](https://github.com/melardev/DjangoRestFrameworkPaginatedCrud)
 - [Python Flask](https://github.com/melardev/FlaskApiPaginatedCrud)
-- [AspNet Core](https://github.com/melardev/AspNetCoreApiPaginatedCrud)
-- [AspNet Web Api 2](https://github.com/melardev/WebApiPaginatedAsyncCrud)
+
 
 #### MicroServices
 - [Java Spring Boot Zuul + Rest](https://github.com/melardev/JavaSpringBootZuulRestApiPaginatedCrud)

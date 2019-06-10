@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCoreFluentNHibernateCrudPagination", "ApiCoreFluentNHibernateCrudPagination.csproj", "{32E14740-3506-4F37-8651-1DC05C3C0CB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCoreNHibernateCrudPagination", "ApiCoreNHibernateCrudPagination.csproj", "{32E14740-3506-4F37-8651-1DC05C3C0CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
