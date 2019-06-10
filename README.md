@@ -23,8 +23,8 @@
 - [Follow me](#follow-me)
     
 # Introduction
-This is a mini application implementing REST CRUD operations with Pagination using Go with the standard net/http package for REST
-and GORM for the data layer.
+This is a mini application implementing REST CRUD operations with Pagination using ASP.Net Core with NHibernate(Fluent and XML) package
+for database layer.
 
 # Full-stack Applications
 ## Simple Crud
